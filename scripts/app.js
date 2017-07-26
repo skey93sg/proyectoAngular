@@ -1,0 +1,1 @@
+angular.module("misPelisSeriesApp", ["ngRoute", "route-segment", "view-segment"]);
